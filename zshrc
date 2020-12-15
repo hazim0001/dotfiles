@@ -46,3 +46,4 @@ export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bi
 
 RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
